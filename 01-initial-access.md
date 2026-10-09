@@ -16,9 +16,7 @@ The event was on `WKSTN-03.swiftspendfinancial.thm` under `SSF\\perry.parsons`.
 
 **Sysmon:** Event ID `15` — `FileCreateStreamHash`
 
-## Why it matters
-
-ZoneId 3 shows that Windows marked the file as coming from the Internet. The domain also looks intentionally close to a legitimate software domain, so the download is a useful starting point for the hunt.
+- ZoneId 3 shows that Windows marked the file as coming from the Internet. The domain also looks intentionally close to a legitimate software domain, so the download is a useful starting point for the hunt.
 
 ## ATT&CK
 
